@@ -41,6 +41,11 @@ fuse-pull tests to identify which module sends each ID, and comparison against p
 - `3FB`: ethanol content (flex fuel). `4D1`: oil temperature/pressure, fuel level.
 - `772` / `77F`: ECM / TCM trouble-code broadcast frames.
 
+## License and credit
+
+Licensed under **CC BY 4.0** (see `LICENSE`). You may use, share and adapt this data, including commercially,
+as long as you give credit. Please credit: **aisom02 (github.com/aisom02/caprice-ppv-can-database)**.
+
 ## Disclaimer
 
 Provided as-is for research and education. Transmitting on a vehicle bus can cause faults,
